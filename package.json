@@ -1,6 +1,6 @@
 {
   "name": "couchbase-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "events logging to couchbase database",
   "main": "logger.js",
   "scripts": {
