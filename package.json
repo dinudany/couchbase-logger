@@ -13,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "time-stamp": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinudany/couchbase-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinudany/couchbase-logger/issues"
+  },
+  "homepage": "https://github.com/dinudany/couchbase-logger#readme"
 }
