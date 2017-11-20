@@ -1,0 +1,17 @@
+{
+  "name": "couchbase-logger",
+  "version": "1.0.0",
+  "description": "events logging to couchbase database",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "couchbase-logger"
+  ],
+  "author": "Dinesh Kumar Subramanian (dinudany)",
+  "license": "ISC",
+  "dependencies": {
+    "time-stamp": "^2.0.0"
+  }
+}
